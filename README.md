@@ -4,7 +4,7 @@ Initialization and registration of script. Set button text on keyDown &amp; keyU
 
 ## Features
 * No CSS added
-* Cross platform javascript
+* Cross platform macOS & Windows - Javascript
 
 ![Example image](https://github.com/joeraven0/StreamDeck_HelloWorld_SDK/blob/master/demo.png?raw=true)
 
