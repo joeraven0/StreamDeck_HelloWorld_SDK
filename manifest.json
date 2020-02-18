@@ -22,6 +22,7 @@
   "Name": "Red background",
   "Icon": "red", 
   "Version": "0.1",
+  "PropertyInspectorPath": "content.html",
   "OS": [
     {
         "Platform": "mac", 
