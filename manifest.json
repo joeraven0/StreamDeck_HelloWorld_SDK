@@ -1,0 +1,39 @@
+{
+  "Actions": [
+    {
+	  "Icon": "blue",
+	  "SupportedInMultiActions": false,
+	  "Name": "Hello world",
+	  "States": [
+        {
+          "Image": "red",
+          "TitleAlignment": "middle", 
+          "FontSize": "9",
+		  "Title": "Press me!"
+        }
+		],
+      "Tooltip": "Red background",
+      "UUID": "com.joakim.myPlugin.action"
+    }
+  ], 
+  "Author": "Joakim Ringstad", 
+  "CodePath": "index.html", 
+  "Description": "Shows a red background",
+  "Name": "Red background",
+  "Icon": "red", 
+  "Version": "0.1",
+  "OS": [
+    {
+        "Platform": "mac", 
+        "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows", 
+        "MinimumVersion" : "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion" : "4.1"
+  }
+}
