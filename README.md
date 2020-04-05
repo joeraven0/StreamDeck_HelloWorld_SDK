@@ -1,6 +1,6 @@
 # StreamDeck_HelloWorld_SDK
 
-Clean project for Stream Deck board.
+Very simple & clean hello world project for Stream Deck board.
 Initialization and registration of script. Set button text on keyDown &amp; keyUp
 
 ## Features
