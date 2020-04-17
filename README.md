@@ -1,8 +1,9 @@
 # StreamDeck_HelloWorld_SDK
-
+Copy & paste tutorial to be placed inside plugin folder.
 Very simple & clean hello world project for Stream Deck board.
 Initialization and registration of script. Set button text on keyDown &amp; keyUp
 
+Place inside plugin folder and restart Elegato software
 **MAC folder**
 > ~/Library/Application Support/com.elgato.StreamDeck/Plugins/
 
