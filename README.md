@@ -1,5 +1,6 @@
 # StreamDeck_HelloWorld_SDK
-Copy & paste tutorial to be placed inside plugin folder.
+Copy & paste tutorial to be copied inside plugin folder.
+
 Very simple & clean hello world project for Stream Deck board.
 Initialization and registration of script. Set button text on keyDown &amp; keyUp
 
